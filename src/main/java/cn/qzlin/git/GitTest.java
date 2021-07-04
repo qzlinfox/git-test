@@ -23,5 +23,6 @@ public class GitTest {
         System.out.println("push test");
         System.out.println("hello hello");
         System.out.println("userqzl test");
+        System.out.println("userqzl pull test");
     }
 }
