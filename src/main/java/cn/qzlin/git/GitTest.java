@@ -12,5 +12,9 @@ public class GitTest {
 
         System.out.println("hello test!");
         System.out.println("添加新功能!!!!");
+
+        for (int i = 0; i < 5; i++) {
+            System.out.println(i);
+        }
     }
 }
