@@ -24,5 +24,6 @@ public class GitTest {
         System.out.println("hello hello");
         System.out.println("userqzl test");
         System.out.println("userqzl pull test");
+        System.out.println("qzlfox pull test");
     }
 }
